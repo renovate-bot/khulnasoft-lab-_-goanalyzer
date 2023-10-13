@@ -10,7 +10,7 @@ import (
 	"github.com/dgraph-io/badger/v2"
 )
 
-var domain = flag.String("domain", "goanalyzer.com", "Domain used for your goanalyzer installation")
+var domain = flag.String("domain", "goanalyzer.khulnasoft.com", "Domain used for your goanalyzer installation")
 var googleAnalyticsKey = flag.String("google_analytics_key", "G-TFTF5Y92QD", "Google Analytics Account ID (GA4)")
 
 // ReportHandler handles the report page

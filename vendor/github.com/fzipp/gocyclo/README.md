@@ -1,7 +1,7 @@
 # gocyclo
 
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/fzipp/gocyclo)](https://pkg.go.dev/github.com/fzipp/gocyclo)
-[![Go Report Card](https://goreportcard.com/badge/github.com/fzipp/gocyclo)](https://goreportcard.com/report/github.com/fzipp/gocyclo)
+[![Go Analyzer](https://goreportcard.com/badge/github.com/fzipp/gocyclo)](https://goreportcard.com/report/github.com/fzipp/gocyclo)
 
 Gocyclo calculates
 [cyclomatic complexities](https://en.wikipedia.org/wiki/Cyclomatic_complexity)

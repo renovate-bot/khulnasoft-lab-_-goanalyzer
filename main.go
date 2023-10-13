@@ -46,7 +46,7 @@ func makeHandler(db *badger.DB, name string, fn func(http.ResponseWriter, *http.
 		// for backwards-compatibility, we must support URLs formatted as
 		//   /report/[org]/[repo]
 		// and they will be assumed to be github.com URLs. This is because
-		// at first Go Report Card only supported github.com URLs, and
+		// at first Go Analyzer only supported github.com URLs, and
 		// took only the org name and repo name as parameters. This is no longer the
 		// case, but we do not want external links to break.
 		oldFormat := regexp.MustCompile(fmt.Sprintf(`^/%s/([a-zA-Z0-9\-_]+)/([a-zA-Z0-9\-_]+)$`, name))

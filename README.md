@@ -1,8 +1,8 @@
-[![Go Report Card](https://goanalyzer.com/badge/khulnasoft-lab/goanalyzer)](https://goanalyzer.com/report/khulnasoft-lab/goanalyzer) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/khulnasoft-lab/goanalyzer/blob/master/LICENSE)
+[![Go Analyzer](https://goanalyzer.khulnasoft.com/badge/khulnasoft-lab/goanalyzer)](https://goanalyzer.khulnasoft.com/report/khulnasoft-lab/goanalyzer) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/khulnasoft-lab/goanalyzer/blob/master/LICENSE)
 
-# Go Report Card
+# Go Analyzer
 
-A web application that generates a report on the quality of an open source Go project. It uses several measures, including `gofmt`, `go vet`, `go lint` and `gocyclo`. To get a report on your own project, try [goanalyzer.com](https://goanalyzer.com).
+A web application that generates a report on the quality of an open source Go project. It uses several measures, including `gofmt`, `go vet`, `go lint` and `gocyclo`. To get a report on your own project, try [goanalyzer.khulnasoft.com](https://goanalyzer.khulnasoft.com).
 
 ### Sponsors
 
@@ -28,7 +28,7 @@ and you should see
 Running on :8000...
 ```
 
-Navigate to `localhost:8000` and you should see the Go Report Card front page.
+Navigate to `localhost:8000` and you should see the Go Analyzer front page.
 
 ### Command Line Interface
 
@@ -83,18 +83,18 @@ misspell ............ 100%
 
 ### Contributing
 
-Go Report Card is an open source project run by volunteers, and contributions are welcome! Check out the [Issues](https://github.com/khulnasoft-lab/goanalyzer/issues) page to see if your idea has already been mentioned. Feel free to raise an issue or submit a pull request.
+Go Analyzer is an open source project run by volunteers, and contributions are welcome! Check out the [Issues](https://github.com/khulnasoft-lab/goanalyzer/issues) page to see if your idea has already been mentioned. Feel free to raise an issue or submit a pull request.
 
 ### Academic Citation
 
-If you use Go Report Card for academic purposes, please use the following citation:
+If you use Go Analyzer for academic purposes, please use the following citation:
 
 ```
 @Misc{schaaf-smith-goanalyzer,
     author = {Schaaf, Herman and Smith, Shawn},
-    title  = {Go Report Card: A report card for your Go application},
+    title  = {Go Analyzer: A report card for your Go application},
     year   = {2015--},
-    url    = {https://www.goanalyzer.com/},
+    url    = {https://www.goanalyzer.khulnasoft.com/},
     note   = {[Online; accessed <today>]}
 }
 ```

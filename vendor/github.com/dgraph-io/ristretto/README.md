@@ -1,6 +1,6 @@
 # Ristretto
 [![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/dgraph-io/ristretto)
-[![Go Report Card](https://img.shields.io/badge/go%20report-A%2B-brightgreen)](https://goreportcard.com/report/github.com/dgraph-io/ristretto)
+[![Go Analyzer](https://img.shields.io/badge/go%20report-A%2B-brightgreen)](https://goreportcard.com/report/github.com/dgraph-io/ristretto)
 [![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)](https://gocover.io/github.com/dgraph-io/ristretto)
 ![Tests](https://github.com/dgraph-io/ristretto/workflows/tests/badge.svg)
 
