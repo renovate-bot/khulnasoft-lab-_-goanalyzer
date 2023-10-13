@@ -8,18 +8,6 @@ A web application that generates a report on the quality of an open source Go pr
 
 Support us over on [Patreon](https://www.patreon.com/goanalyzer)!
 
-<a href="https://www.bairesdev.com/sponsoring-open-source-projects/"><img src="https://goanalyzer.com/assets/bairesdev.png" width="50%" height="50%"></a>
-
-<a href="https://www.digitalocean.com?utm_medium=opensource&utm_source=goanalyzer"><img src="https://goanalyzer.com/assets/digitalocean.svg" width="50%" height="50%"></a>
-
-- [Cody Wood](https://www.linkedin.com/in/sprkyco/)
-- Pascal Wenger
-- Jonas Kwiedor
-- [PhotoPrism](https://photoprism.app)
-- Kia Farhang
-- [Patrick DeVivo](https://twitter.com/patrickdevivo) ([MergeStat](https://github.com/mergestat/mergestat))
-- [Alexis Geoffrey](https://github.com/alexisgeoffrey)
-
 ### Installation
 
 ```
