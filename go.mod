@@ -1,6 +1,6 @@
 module github.com/khulnasoft-lab/goanalyzer
 
-go 1.20
+go 1.23.0
 
 require (
 	github.com/alecthomas/gometalinter v3.0.0+incompatible
@@ -8,7 +8,7 @@ require (
 	github.com/dgraph-io/badger/v2 v2.2007.4
 	github.com/dustin/go-humanize v1.0.1
 	github.com/fzipp/gocyclo v0.3.1
-	github.com/gordonklaus/ineffassign v0.1.0
+	github.com/gordonklaus/ineffassign v0.2.0
 	github.com/prometheus/client_golang v1.19.1
 	golang.org/x/lint v0.0.0-20201208152925-83fdc39ff7b5
 	honnef.co/go/tools v0.4.6
@@ -35,10 +35,10 @@ require (
 	github.com/prometheus/common v0.48.0 // indirect
 	github.com/prometheus/procfs v0.12.0 // indirect
 	golang.org/x/exp/typeparams v0.0.0-20221208152030-732eee02a75a // indirect
-	golang.org/x/mod v0.12.0 // indirect
-	golang.org/x/net v0.20.0 // indirect
-	golang.org/x/sys v0.17.0 // indirect
-	golang.org/x/tools v0.12.1-0.20230825192346-2191a27a6dc5 // indirect
+	golang.org/x/mod v0.24.0 // indirect
+	golang.org/x/net v0.40.0 // indirect
+	golang.org/x/sys v0.33.0 // indirect
+	golang.org/x/tools v0.33.0 // indirect
 	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/alecthomas/kingpin.v3-unstable v3.0.0-20191105091915-95d230a53780 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
